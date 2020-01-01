@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://airudaexu.1sti.com/sitemap.xml
